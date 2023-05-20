@@ -1,0 +1,152 @@
+01:02:43.405 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+01:02:43.578 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+01:03:43.413 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+01:04:11.899 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+01:06:19.583 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+01:11:50.654 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+01:11:51.354 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+09:27:04.716 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+09:27:05.590 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+15:59:53.301 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+15:59:54.213 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:00:00.583 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:00:00.597 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+16:00:05.946 [main] INFO  Validate Order Now link in About Page - ****** TC02 Starting to Validate Order Now link in IJW ******
+16:00:06.069 [main] INFO  Validate Order Now link in About Page - Starting to Launch IJW site
+16:00:11.685 [main] INFO  Validate Order Now link in About Page - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:00:11.693 [main] ERROR Validate Order Now link in About Page - Site Launch Failed
+16:00:32.456 [main] INFO  Validate Signup From Join Now Page - ****** TC03 Starting to Validate Signup From Join Now Page in IJW ******
+16:00:32.568 [main] INFO  Validate Signup From Join Now Page - Starting to Launch IJW site
+16:00:38.304 [main] INFO  Validate Signup From Join Now Page - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:00:38.310 [main] ERROR Validate Signup From Join Now Page - Site Launch Failed
+16:01:00.704 [main] INFO  Validate Signup From Profile Page - ****** TC04 Starting to Validate Signup From Profile Page in IJW ******
+16:01:00.828 [main] INFO  Validate Signup From Profile Page - Starting to Launch IJW site
+16:01:10.184 [main] INFO  Validate Signup From Profile Page - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:01:10.192 [main] ERROR Validate Signup From Profile Page - Site Launch Failed
+16:01:17.108 [main] INFO  Validate Add New Address From Checkout Page - ****** TC05 Starting to Validate Add New Address From Checkout Page in IJW ******
+16:01:17.186 [main] INFO  Validate Add New Address From Checkout Page - Starting to Launch IJW site
+16:01:22.941 [main] INFO  Validate Add New Address From Checkout Page - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:01:22.947 [main] ERROR Validate Add New Address From Checkout Page - Site Launch Failed
+16:01:45.465 [main] INFO  Validate Logged in User is able to edit auto populated text - ****** TC06 Starting to Validate Logged in User is able to edit auto populated text ******
+16:01:45.573 [main] INFO  Validate Logged in User is able to edit auto populated text - Starting to Launch IJW site
+16:01:51.436 [main] INFO  Validate Logged in User is able to edit auto populated text - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:01:51.441 [main] ERROR Validate Logged in User is able to edit auto populated text - Site Launch Failed
+16:02:33.040 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:02:33.690 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:02:39.376 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:02:39.393 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+16:04:44.918 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:04:45.641 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:04:51.193 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:04:51.209 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+16:05:11.892 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+16:05:12.022 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+16:05:18.425 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:05:18.430 [main] ERROR PickupAsap for Guest user - Site Launch Failed
+16:10:37.406 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:10:38.233 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:10:44.448 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:10:44.459 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+16:10:49.285 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+16:10:49.405 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+16:10:55.279 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:10:55.288 [main] ERROR PickupAsap for Guest user - Site Launch Failed
+16:11:53.608 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:11:54.610 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:12:00.161 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:12:00.170 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+16:14:42.470 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:14:43.438 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:14:49.868 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:14:49.892 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+16:14:55.821 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+16:14:55.975 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+16:15:01.510 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:15:01.518 [main] ERROR PickupAsap for Guest user - Site Launch Failed
+16:16:32.198 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:16:32.986 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:16:38.924 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:16:38.934 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+16:16:44.582 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+16:16:44.755 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+16:16:51.198 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:16:51.209 [main] ERROR PickupAsap for Guest user - Site Launch Failed
+16:17:45.651 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:17:46.364 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:17:52.010 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:24:41.062 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:24:41.717 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:24:48.294 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:24:55.953 [main] INFO  Validate Login-Logout Scenario - IJW  User Login Successful, User Name : Neel
+16:24:58.484 [main] INFO  Validate Login-Logout Scenario - IJW Logout Successful, Response Code : 200
+16:26:24.868 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:26:25.013 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:31:21.946 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:31:22.588 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+16:31:29.020 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:31:35.644 [main] INFO  Validate Login-Logout Scenario - IJW  User Login Successful, User Name : Neel
+16:31:37.990 [main] INFO  Validate Login-Logout Scenario - IJW Logout Successful, Response Code : 200
+16:31:44.132 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+16:31:44.284 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+16:31:51.178 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:32:32.180 [main] INFO  PickupAsap for Guest user - Location Set Successfully: 75063
+16:32:42.795 [main] INFO  PickupAsap for Guest user - Items Added Successfully, item name:  8 Bone-In Wings Combo 
+16:32:46.545 [main] INFO  PickupAsap for Guest user - Personal Details Added
+16:32:49.120 [main] INFO  PickupAsap for Guest user - Billing Details Added
+16:32:56.616 [main] INFO  PickupAsap for Guest user - 5$ Tip has selected
+16:33:04.015 [main] INFO  PickupAsap for Guest user - Payment Details added
+16:33:04.234 [main] INFO  PickupAsap for Guest user - Subtotal before order: $10.00
+16:33:04.234 [main] INFO  PickupAsap for Guest user - Added Tip before order: $5.00
+16:33:04.234 [main] INFO  PickupAsap for Guest user - Order Total before order: $15.70
+16:33:04.962 [main] INFO  PickupAsap for Guest user - Place Order button clicked Successfully
+16:33:10.082 [main] INFO  PickupAsap for Guest user - Order placed Successfully as: Order ID: IJW77217747167
+16:33:10.219 [main] INFO  PickupAsap for Guest user - Subtotal after order: $10.00
+16:33:10.219 [main] INFO  PickupAsap for Guest user - Added Tip after order: $5.00
+16:33:10.219 [main] INFO  PickupAsap for Guest user - Order Total after order: $15.70
+16:33:10.219 [main] INFO  PickupAsap for Guest user - Prices matched
+16:43:57.998 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+16:43:58.737 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+17:45:50.068 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+17:45:51.616 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+17:46:04.511 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:46:11.919 [main] INFO  Validate Login-Logout Scenario - IJW  User Login Successful, User Name : Neel
+17:46:14.307 [main] INFO  Validate Login-Logout Scenario - IJW Logout Successful, Response Code : 200
+17:46:25.759 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+17:46:25.991 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+17:46:32.179 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:52:48.900 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+17:52:50.351 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+17:52:57.070 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:53:06.516 [main] INFO  Validate Login-Logout Scenario - IJW  User Login Successful, User Name : Neel
+17:53:08.671 [main] INFO  Validate Login-Logout Scenario - IJW Logout Successful, Response Code : 200
+17:53:15.706 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+17:53:15.870 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+17:53:21.491 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:54:01.926 [main] INFO  PickupAsap for Guest user - Location Set Successfully: 75063
+17:54:11.146 [main] INFO  PickupAsap for Guest user - Items Added Successfully, item name:  8 Bone-In Wings Combo 
+17:54:14.694 [main] INFO  PickupAsap for Guest user - Personal Details Added
+17:54:16.972 [main] INFO  PickupAsap for Guest user - Billing Details Added
+17:54:24.408 [main] INFO  PickupAsap for Guest user - 5$ Tip has selected
+17:55:18.783 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+17:55:19.397 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+17:55:25.062 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:55:31.536 [main] INFO  Validate Login-Logout Scenario - IJW  User Login Successful, User Name : Neel
+17:55:33.209 [main] INFO  Validate Login-Logout Scenario - IJW Logout Successful, Response Code : 200
+17:55:38.631 [main] INFO  PickupAsap for Guest user - ****** TC09 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+17:55:38.762 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+17:55:44.435 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:56:24.907 [main] INFO  PickupAsap for Guest user - Location Set Successfully: 75063
+17:56:33.804 [main] INFO  PickupAsap for Guest user - Items Added Successfully, item name:  8 Bone-In Wings Combo 
+17:56:37.247 [main] INFO  PickupAsap for Guest user - Personal Details Added
+17:56:39.517 [main] INFO  PickupAsap for Guest user - Billing Details Added
+17:56:46.903 [main] INFO  PickupAsap for Guest user - 5$ Tip has selected
+17:56:53.622 [main] INFO  PickupAsap for Guest user - Payment Details added
+17:56:53.716 [main] INFO  PickupAsap for Guest user - Subtotal before order: $10.00
+17:56:53.716 [main] INFO  PickupAsap for Guest user - Added Tip before order: $5.00
+17:56:53.716 [main] INFO  PickupAsap for Guest user - Order Total before order: $15.70
+17:56:54.036 [main] INFO  PickupAsap for Guest user - Place Order button clicked Successfully
+17:56:59.125 [main] INFO  PickupAsap for Guest user - Order placed Successfully as: Order ID: IJW99055307835
+17:56:59.226 [main] INFO  PickupAsap for Guest user - Subtotal after order: $10.00
+17:56:59.227 [main] INFO  PickupAsap for Guest user - Added Tip after order: $5.00
+17:56:59.227 [main] INFO  PickupAsap for Guest user - Order Total after order: $15.70
+17:56:59.227 [main] INFO  PickupAsap for Guest user - Prices matched

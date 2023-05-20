@@ -1,0 +1,31 @@
+16:47:10.880 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+16:47:11.059 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+16:47:17.420 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+16:47:31.419 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+16:47:36.626 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+16:47:41.476 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+16:47:48.068 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+16:47:48.611 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+16:47:53.710 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW819158978493
+17:29:11.068 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+17:29:11.193 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+17:29:58.297 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+17:29:58.423 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+17:30:03.877 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:30:17.409 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+17:30:50.811 [main] ERROR PickupAsap for LoggedIn user - Failed to Add item to the cart
+17:30:50.813 [main] ERROR PickupAsap for LoggedIn user - Expected condition failed: waiting for element to be clickable: By.xpath: //button[contains(text(),'Checkout')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2fcd434777e406b4b8e6f9a182379d4b
+21:00:58.038 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+21:00:58.156 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+21:01:04.389 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+21:01:18.252 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+21:01:25.165 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+21:01:30.591 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+21:01:37.793 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+21:01:38.400 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+21:01:43.507 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW396658095305

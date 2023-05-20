@@ -1,0 +1,246 @@
+10:19:13.000 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+10:19:13.197 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+10:19:13.197 [main] ERROR PickupAsap for LoggedIn user - Site Launch Failed
+10:19:13.202 [main] ERROR PickupAsap for LoggedIn user - null value in entry: url=null
+10:30:51.071 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+10:30:51.181 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+10:30:57.303 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+10:31:11.373 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+10:31:18.980 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+10:31:23.782 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+10:31:29.965 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+10:31:30.291 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+10:31:36.982 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW707074596016
+10:36:20.498 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+10:36:20.617 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+10:36:26.817 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+10:36:40.334 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+10:36:46.133 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+10:36:51.099 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+10:36:57.214 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+10:36:57.523 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+10:37:02.772 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW557996422144
+10:38:49.370 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+10:38:49.480 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+10:38:58.664 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+10:39:12.535 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+10:39:20.303 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+10:39:24.921 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+10:39:31.180 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+10:39:31.506 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+10:39:37.511 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW566276359668
+10:42:43.693 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+10:42:43.795 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+10:42:49.998 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+10:43:03.339 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+10:43:08.713 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+10:43:13.470 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+10:43:19.655 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+10:43:19.982 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+10:43:25.063 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW673866992761
+10:47:54.019 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+10:47:54.141 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+10:47:59.963 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+10:48:13.270 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+10:48:18.757 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+10:48:23.460 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+10:48:29.593 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+10:48:29.916 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+10:48:35.976 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW869821025282
+11:28:42.850 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+11:28:43.017 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+11:28:49.057 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+11:29:02.638 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+11:29:08.254 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+11:29:13.044 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+11:29:19.844 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+11:29:20.620 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+11:29:55.766 [main] ERROR PickupAsap for LoggedIn user - Unable to place Successful order
+11:29:55.766 [main] ERROR PickupAsap for LoggedIn user - no such element: Unable to locate element: {"method":"xpath","selector":"//body/app-root[1]/div[3]/app-order-confirmation[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/h6[1]"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55238}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59488a49ee870661c417dbc2d7733b48
+*** Element info: {Using=xpath, value=//body/app-root[1]/div[3]/app-order-confirmation[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/h6[1]}
+11:44:55.681 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+11:44:55.858 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+11:45:01.370 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+11:45:15.065 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+11:45:21.766 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+11:45:27.620 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+11:45:34.242 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+11:45:34.664 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+11:45:39.763 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW75180765751
+12:45:31.432 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+12:45:31.590 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+12:45:37.548 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+12:45:51.513 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+12:45:57.174 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+12:46:02.394 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+12:46:09.499 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+12:46:10.034 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+12:46:15.148 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW550324924296
+12:51:12.821 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+12:51:12.962 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+12:51:18.542 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+12:51:32.643 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+12:51:40.552 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+12:51:45.330 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+12:51:51.544 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+12:51:51.950 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+12:51:57.024 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW994529253410
+13:29:15.546 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+13:29:15.798 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+13:29:23.143 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+13:29:38.950 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+13:29:47.370 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+13:29:53.972 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+13:30:00.972 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+13:30:01.661 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+13:30:06.774 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW298512399240
+13:37:06.024 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+13:37:06.132 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+13:37:12.275 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+13:37:25.524 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+13:37:32.122 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+13:37:36.709 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+13:37:42.872 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+13:37:43.180 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+13:37:48.527 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW34218428632
+17:37:07.105 [main] INFO  PickupAsap for LoggedIn user - ****** TC01 Starting to Validate PickupAsap testcase for LoggedIn user of IJW ******
+17:37:07.262 [main] INFO  PickupAsap for LoggedIn user - Starting to Launch IJW site
+17:37:13.607 [main] INFO  PickupAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:37:27.151 [main] INFO  PickupAsap for LoggedIn user - Location Set Successfully as: 75063
+17:37:32.423 [main] INFO  PickupAsap for LoggedIn user - Items Added Successfully
+17:37:37.157 [main] INFO  PickupAsap for LoggedIn user - Billing Details Added
+17:37:43.607 [main] INFO  PickupAsap for LoggedIn user - Payment Details added
+17:37:43.902 [main] INFO  PickupAsap for LoggedIn user - Place Order button clicked Successfully
+17:37:48.972 [main] INFO  PickupAsap for LoggedIn user - Order placed Successfully as: Order ID: IJW141242899240
+17:37:55.497 [main] INFO  PickupAsap for Guest user - ****** TC02 Starting to Validate PickupAsap testcase for Guest user of IJW ******
+17:37:55.599 [main] INFO  PickupAsap for Guest user - Starting to Launch IJW site
+17:38:01.161 [main] INFO  PickupAsap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:38:41.529 [main] INFO  PickupAsap for Guest user - Location Set Successfully as: 75063
+17:38:48.857 [main] INFO  PickupAsap for Guest user - Items Added Successfully
+17:38:53.025 [main] INFO  PickupAsap for Guest user - Personal Details Added
+17:38:55.578 [main] INFO  PickupAsap for Guest user - Billing Details Added
+17:39:02.501 [main] INFO  PickupAsap for Guest user - Payment Details added
+17:39:02.650 [main] INFO  PickupAsap for Guest user - Subtotal before order: $10.00
+17:39:02.650 [main] INFO  PickupAsap for Guest user - Added Tip before order: $2.00
+17:39:02.650 [main] INFO  PickupAsap for Guest user - Order Total before order: $12.70
+17:39:03.208 [main] INFO  PickupAsap for Guest user - Place Order button clicked Successfully
+17:39:08.943 [main] INFO  PickupAsap for Guest user - Order placed Successfully as: Order ID: IJW204403148948
+17:39:09.127 [main] INFO  PickupAsap for Guest user - Subtotal after order: $10.00
+17:39:09.127 [main] INFO  PickupAsap for Guest user - Added Tip after order: $2.00
+17:39:09.127 [main] INFO  PickupAsap for Guest user - Order Total after order: $12.70
+17:39:09.127 [main] INFO  PickupAsap for Guest user - Prices matched
+17:39:17.948 [main] INFO  Pickup-LaterToday for LoggedIn user - ***** TC03 Starting to Validate PickupLaterToday for LoggedIn user by adding new billing Address *****
+17:39:18.076 [main] INFO  Pickup-LaterToday for LoggedIn user - Starting to Launch IJW site
+17:39:23.996 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:39:37.548 [main] INFO  Pickup-LaterToday for LoggedIn user - Location Set Successfully as: 75063
+17:39:42.444 [main] INFO  Pickup-LaterToday for LoggedIn user - Items Added Successfully
+17:39:49.957 [main] INFO  Pickup-LaterToday for LoggedIn user - Later Today time is selected as  03:15 PM-03:30 PM 
+17:39:57.475 [main] INFO  Pickup-LaterToday for LoggedIn user - New Billing Details Added
+17:40:04.573 [main] INFO  Pickup-LaterToday for LoggedIn user - Payment Details added
+17:40:04.714 [main] INFO  Pickup-LaterToday for LoggedIn user - Subtotal before order: $10.00
+17:40:04.714 [main] INFO  Pickup-LaterToday for LoggedIn user - Added Tip before order: $2.00
+17:40:04.714 [main] INFO  Pickup-LaterToday for LoggedIn user - Order Total before order: $12.70
+17:40:05.360 [main] INFO  Pickup-LaterToday for LoggedIn user - Place Order button clicked Successfully
+17:40:10.487 [main] INFO  Pickup-LaterToday for LoggedIn user - Order placed Successfully as: Order ID: IJW105323261499
+17:40:10.624 [main] INFO  Pickup-LaterToday for LoggedIn user - Subtotal after order: $10.00
+17:40:10.624 [main] INFO  Pickup-LaterToday for LoggedIn user - Added Tip after order: $2.00
+17:40:10.624 [main] INFO  Pickup-LaterToday for LoggedIn user - Order Total after order: $12.70
+17:40:10.624 [main] INFO  Pickup-LaterToday for LoggedIn user - Prices matched
+17:40:19.131 [main] INFO  Pickup-LaterToday for Guest user - ****** TC04 Starting to Validate PickupLater testcase for Guest user of IJW ******
+17:40:19.211 [main] INFO  Pickup-LaterToday for Guest user - Starting to Launch IJW site
+17:40:25.025 [main] INFO  Pickup-LaterToday for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:41:05.470 [main] INFO  Pickup-LaterToday for Guest user - Location Set Successfully as: 75063
+17:41:13.749 [main] INFO  Pickup-LaterToday for Guest user - Items Added Successfully
+17:41:21.790 [main] INFO  Pickup-LaterToday for Guest user - Later Today time is selected as  03:15 PM-03:30 PM 
+17:41:26.155 [main] INFO  Pickup-LaterToday for Guest user - Personal Details Added
+17:41:28.726 [main] INFO  Pickup-LaterToday for Guest user - Billing Details Added
+17:41:35.607 [main] INFO  Pickup-LaterToday for Guest user - Payment Details added
+17:41:35.731 [main] INFO  Pickup-LaterToday for Guest user - Subtotal before order: $10.00
+17:41:35.736 [main] INFO  Pickup-LaterToday for Guest user - Added Tip before order: $2.00
+17:41:35.736 [main] INFO  Pickup-LaterToday for Guest user - Order Total before order: $12.70
+17:41:36.317 [main] INFO  Pickup-LaterToday for Guest user - Place Order button clicked Successfully
+17:41:41.411 [main] INFO  Pickup-LaterToday for Guest user - Order placed Successfully as: Order ID: IJW503096827766
+17:41:41.539 [main] INFO  Pickup-LaterToday for Guest user - Subtotal after order: $10.00
+17:41:41.539 [main] INFO  Pickup-LaterToday for Guest user - Added Tip after order: $2.00
+17:41:41.539 [main] INFO  Pickup-LaterToday for Guest user - Order Total after order: $12.70
+17:41:41.539 [main] INFO  Pickup-LaterToday for Guest user - Prices matched
+17:41:49.454 [main] INFO  DeliveryAsap for LoggedIn user - ****** TC05 Starting to Validate Delivery-Asap testcase for LoggedIn user of IJW ******
+17:41:49.526 [main] INFO  DeliveryAsap for LoggedIn user - Starting to Launch IJW site
+17:41:55.432 [main] INFO  DeliveryAsap for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:42:08.776 [main] INFO  DeliveryAsap for LoggedIn user - Location Set Successfully as: 75063
+17:42:16.890 [main] INFO  DeliveryAsap for LoggedIn user - Items Added Successfully
+17:42:27.270 [main] INFO  DeliveryAsap for LoggedIn user - Delivery Address added successfully
+17:42:29.417 [main] INFO  DeliveryAsap for LoggedIn user - 25% Tip has selected
+17:42:31.768 [main] INFO  DeliveryAsap for LoggedIn user - Billing Details Added
+17:42:38.031 [main] INFO  DeliveryAsap for LoggedIn user - Payment Details added
+17:42:38.099 [main] INFO  DeliveryAsap for LoggedIn user - Subtotal before order: $10.00
+17:42:38.099 [main] INFO  DeliveryAsap for LoggedIn user - Order Total before order: $18.94
+17:42:38.558 [main] INFO  DeliveryAsap for LoggedIn user - Place Order button clicked Successfully
+17:43:13.637 [main] ERROR DeliveryAsap for LoggedIn user - Unable to place Successful order
+17:43:13.640 [main] ERROR DeliveryAsap for LoggedIn user - no such element: Unable to locate element: {"method":"xpath","selector":"//body/app-root[1]/div[3]/app-order-confirmation[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/h6[1]"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57546}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d3a3313f725fdd05174c795025e3e35
+*** Element info: {Using=xpath, value=//body/app-root[1]/div[3]/app-order-confirmation[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/h6[1]}
+17:43:20.851 [main] INFO  Delivery-Asap for Guest user - ****** TC06 Starting to Validate Delivery-Asap testcase for Guest user of IJW ******
+17:43:20.945 [main] INFO  Delivery-Asap for Guest user - Starting to Launch IJW site
+17:43:27.064 [main] INFO  Delivery-Asap for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:44:07.417 [main] INFO  Delivery-Asap for Guest user - Location Set Successfully as: 75063
+17:44:15.120 [main] INFO  Delivery-Asap for Guest user - Items Added Successfully
+17:44:25.944 [main] INFO  Delivery-Asap for Guest user - Delivery Address added successfully
+17:44:28.077 [main] INFO  Delivery-Asap for Guest user - 15% Tip has selected
+17:44:31.512 [main] INFO  Delivery-Asap for Guest user - Personal Details Added
+17:44:33.706 [main] INFO  Delivery-Asap for Guest user - Billing Details Added
+17:44:39.825 [main] INFO  Delivery-Asap for Guest user - Payment Details added
+17:44:39.904 [main] INFO  Delivery-Asap for Guest user - Subtotal before order: $10.00
+17:44:39.904 [main] INFO  Delivery-Asap for Guest user - Order Total before order: $17.94
+17:44:40.538 [main] INFO  Delivery-Asap for Guest user - Place Order button clicked Successfully
+17:44:45.631 [main] INFO  Delivery-Asap for Guest user - Order placed Successfully as: Order ID: IJW833549151106
+17:44:45.727 [main] INFO  Delivery-Asap for Guest user - Subtotal after order: $10.00
+17:44:45.727 [main] INFO  Delivery-Asap for Guest user - Order Total after order: $17.94
+17:44:45.727 [main] INFO  Delivery-Asap for Guest user - Prices matched
+17:44:54.279 [main] INFO  Delivery-LaterToday for LoggedIn user - ***** TC07 Starting to Validate Delivery-LaterToday for LoggedIn user by adding new billing Address *****
+17:44:54.343 [main] INFO  Delivery-LaterToday for LoggedIn user - Starting to Launch IJW site
+17:44:59.709 [main] INFO  Delivery-LaterToday for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:45:12.840 [main] INFO  Delivery-LaterToday for LoggedIn user - Location Set Successfully as: 75063
+17:45:18.203 [main] INFO  Delivery-LaterToday for LoggedIn user - Items Added Successfully
+17:45:29.678 [main] INFO  Delivery-LaterToday for LoggedIn user - Delivery Address added successfully
+17:45:37.233 [main] INFO  Delivery-LaterToday for LoggedIn user - 5$ Tip has selected
+17:45:45.232 [main] INFO  Delivery-LaterToday for LoggedIn user - New Billing Details Added
+17:46:15.338 [main] ERROR Delivery-LaterToday for LoggedIn user - Failed to add Payment Details
+17:46:15.338 [main] ERROR Delivery-LaterToday for LoggedIn user - element not interactable
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57830}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e725a413432c10e2426f2ac245c3981
+17:46:24.152 [main] INFO  Delivery-LaterToday for Guest user - ***** TC08 Starting to Validate Delivery-LaterToday for Guest User *****
+17:46:24.216 [main] INFO  Delivery-LaterToday for Guest user - Starting to Launch IJW site
+17:46:30.563 [main] INFO  Delivery-LaterToday for Guest user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+17:47:10.986 [main] INFO  Delivery-LaterToday for Guest user - Location Set Successfully as: 75063
+17:47:18.486 [main] INFO  Delivery-LaterToday for Guest user - Items Added Successfully
+17:47:28.839 [main] INFO  Delivery-LaterToday for Guest user - Delivery Address added successfully
+17:47:36.081 [main] INFO  Delivery-LaterToday for Guest user - Later Today time is selected as  03:15 PM-03:30 PM 
+17:47:43.422 [main] INFO  Delivery-LaterToday for Guest user - 5$ Tip has selected
+17:47:46.883 [main] INFO  Delivery-LaterToday for Guest user - Personal Details Added
+17:47:49.162 [main] INFO  Delivery-LaterToday for Guest user - Billing Details Added
+17:47:55.349 [main] INFO  Delivery-LaterToday for Guest user - Payment Details added
+17:47:55.426 [main] INFO  Delivery-LaterToday for Guest user - Subtotal before order: $10.00
+17:47:55.426 [main] INFO  Delivery-LaterToday for Guest user - Order Total before order: $21.44
+17:47:55.742 [main] INFO  Delivery-LaterToday for Guest user - Place Order button clicked Successfully
+17:48:00.806 [main] INFO  Delivery-LaterToday for Guest user - Order placed Successfully as: Order ID: IJW660848536015
+17:48:00.878 [main] INFO  Delivery-LaterToday for Guest user - Subtotal after order: $10.00
+17:48:00.878 [main] INFO  Delivery-LaterToday for Guest user - Order Total after order: $21.44
+17:48:00.878 [main] INFO  Delivery-LaterToday for Guest user - Prices matched

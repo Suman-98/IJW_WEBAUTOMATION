@@ -1,0 +1,8 @@
+23:49:57.927 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+23:49:58.766 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+23:50:37.088 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+23:50:37.723 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site
+23:50:46.091 [main] INFO  Validate Login-Logout Scenario - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+23:50:46.099 [main] ERROR Validate Login-Logout Scenario - Site Launch Failed
+23:55:01.221 [main] INFO  Validate Login-Logout Scenario - ****** TC01 Starting to Validate Login-Logout testcase in IJW ******
+23:55:01.908 [main] INFO  Validate Login-Logout Scenario - Starting to Launch IJW site

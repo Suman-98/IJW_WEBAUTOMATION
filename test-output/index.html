@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-IJWWeb">
+              <span class="suite-name border-failed">IJWWeb</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-IJWWeb">
+                    <span>C:\Users\891105\eclipse-workspace\IJW_WebAutomation_240123\IJWBrowserSuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-IJWWeb">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-IJWWeb">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-IJWWeb">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-IJWWeb">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-IJWWeb">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-IJWWeb">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method, 1 failed,   </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-IJWWeb" class="hide-methods failed suite-IJWWeb"> (hide)</a> <!-- hide-methods failed suite-IJWWeb -->
+                      <a href="#" panel-name="suite-IJWWeb" class="show-methods failed suite-IJWWeb"> (show)</a> <!-- show-methods failed suite-IJWWeb -->
+                    </span>
+                    <div class="method-list-content failed suite-IJWWeb">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-IJWWeb" title="ijw.testscripts.framework.TestIJW" hash-for-method="PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress">PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-IJWWeb -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-IJWWeb" class="panel IJWWeb">
+          <div class="suite-IJWWeb-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">ijw.testscripts.framework.TestIJW</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress">
+                  </a> <!-- PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress -->
+                  <span class="method-name">PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress</span>
+                  <div class="stack-trace">java.lang.NullPointerException
+	at ijw.config.framework.Base.stopTest(Base.java:66)
+	at ijw.pageaction.framework.FunctionalComponents.billingDetailswithAddNewAddress(FunctionalComponents.java:678)
+	at ijw.testscripts.framework.TestIJW.PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress(TestIJW.java:189)
+	at ijw.testrunner.framework.TestRunner.main(TestRunner.java:30)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-IJWWeb-class-failed -->
+        </div> <!-- panel IJWWeb -->
+        <div panel-name="test-xml-IJWWeb" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\891105\eclipse-workspace\IJW_WebAutomation_240123\IJWBrowserSuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;IJWWeb&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;ijw.listener.framework.Listeners&quot;/&gt;
+    &lt;listener class-name=&quot;ijw.retryconfig.framework.Transformer&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Test IJW In Chrome Browser&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;ijw.testscripts.framework.TestIJW&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress&quot;/&gt;
+          &lt;exclude name=&quot;Login_Logout_Scenario&quot;/&gt;
+          &lt;exclude name=&quot;VerifyOrderNowLinkinAboutpage&quot;/&gt;
+          &lt;exclude name=&quot;VerifySignupFromJoinNowPage&quot;/&gt;
+          &lt;exclude name=&quot;VerifySignupFromProfile&quot;/&gt;
+          &lt;exclude name=&quot;VerifyAddNewAddressfromCheckoutPage&quot;/&gt;
+          &lt;exclude name=&quot;Verify_EditAutoPopulatedText_LoggedInUser&quot;/&gt;
+          &lt;exclude name=&quot;PlaceOrderWithPromo&quot;/&gt;
+          &lt;exclude name=&quot;PlacePickUpAsap_LoggedInUser_ExistingBilingAddress&quot;/&gt;
+          &lt;exclude name=&quot;PlacePickUpAsap_GuestUser&quot;/&gt;
+          &lt;exclude name=&quot;PlacePickUpLaterToday_GuestUser&quot;/&gt;
+          &lt;exclude name=&quot;PlaceDeliveryAsap_LoggedInUser_ExistingBilingAddress&quot;/&gt;
+          &lt;exclude name=&quot;PlaceDeliveryAsap_GuestUser&quot;/&gt;
+          &lt;exclude name=&quot;PlaceDeliveryLaterToday_LoggedInUser_AddNewBillingAddress&quot;/&gt;
+          &lt;exclude name=&quot;PlaceDeliveryLaterToday_GuestUser&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- ijw.testscripts.framework.TestIJW --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Test IJW In Chrome Browser --&gt;
+&lt;/suite&gt; &lt;!-- IJWWeb --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-IJWWeb" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for IJWWeb</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Test IJW In Chrome Browser (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-IJWWeb" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for IJWWeb</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-IJWWeb" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for IJWWeb</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_IJWWeb');
+function tableData_IJWWeb() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress')
+data.setCell(0, 2, 'ijw.testscripts.framework.TestIJW')
+data.setCell(0, 3, 79732);
+window.suiteTableData['IJWWeb']= { tableData: data, tableDiv: 'times-div-IJWWeb'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-IJWWeb">
+              </div> <!-- times-div-IJWWeb -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-IJWWeb" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for IJWWeb</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-IJWWeb" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">14 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">ijw.testscripts.framework.TestIJW</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">Login_Logout_Scenario</span>
+                <br/>
+                <span class="ignored-method-name">PlaceDeliveryAsap_GuestUser</span>
+                <br/>
+                <span class="ignored-method-name">PlacePickUpLaterToday_GuestUser</span>
+                <br/>
+                <span class="ignored-method-name">PlacePickUpAsap_GuestUser</span>
+                <br/>
+                <span class="ignored-method-name">VerifySignupFromJoinNowPage</span>
+                <br/>
+                <span class="ignored-method-name">PlacePickUpAsap_LoggedInUser_ExistingBilingAddress</span>
+                <br/>
+                <span class="ignored-method-name">PlaceDeliveryAsap_LoggedInUser_ExistingBilingAddress</span>
+                <br/>
+                <span class="ignored-method-name">VerifyOrderNowLinkinAboutpage</span>
+                <br/>
+                <span class="ignored-method-name">Verify_EditAutoPopulatedText_LoggedInUser</span>
+                <br/>
+                <span class="ignored-method-name">PlaceDeliveryLaterToday_LoggedInUser_AddNewBillingAddress</span>
+                <br/>
+                <span class="ignored-method-name">PlaceDeliveryLaterToday_GuestUser</span>
+                <br/>
+                <span class="ignored-method-name">VerifySignupFromProfile</span>
+                <br/>
+                <span class="ignored-method-name">VerifyAddNewAddressfromCheckoutPage</span>
+                <br/>
+                <span class="ignored-method-name">PlaceOrderWithPromo</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-IJWWeb" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">ijw.testscripts.framework.TestIJW</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress</span>
+                <span class="method-start">3498 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-suite after">
+                <span class="method-name">sendEmail</span>
+                <span class="method-start">84002 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

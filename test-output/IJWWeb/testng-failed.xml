@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [IJWWeb]">
+  <listeners>
+    <listener class-name="ijw.listener.framework.Listeners"/>
+    <listener class-name="ijw.retryconfig.framework.Transformer"/>
+  </listeners>
+  <test thread-count="5" name="Test IJW In Chrome Browser(failed)">
+    <classes>
+      <class name="ijw.testscripts.framework.TestIJW">
+        <methods>
+          <include name="PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress"/>
+          <include name="initialize"/>
+          <include name="sendEmail"/>
+        </methods>
+      </class> <!-- ijw.testscripts.framework.TestIJW -->
+    </classes>
+  </test> <!-- Test IJW In Chrome Browser(failed) -->
+</suite> <!-- Failed suite [IJWWeb] -->

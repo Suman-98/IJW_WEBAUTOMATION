@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "testng-1.0.dtd">
+<suite name="IJWWeb">
+<listeners>
+<listener class-name="ijw.listener.framework.Listeners"/>
+<listener class-name="ijw.retryconfig.framework.Transformer"/>
+</listeners>
+<test name="Test IJW In Chrome Browser">
+<classes>
+<class name="ijw.testscripts.framework.TestIJW">
+<methods>
+<exclude name="Login_Logout_Scenario"/>
+<exclude name="VerifyOrderNowLinkinAboutpage"/>
+<exclude name="VerifySignupFromJoinNowPage"/>
+<exclude name="VerifySignupFromProfile"/>
+<exclude name="VerifyAddNewAddressfromCheckoutPage"/>
+<exclude name="Verify_EditAutoPopulatedText_LoggedInUser"/>
+<exclude name="PlaceOrderWithPromo"/>
+<exclude name="PlacePickUpAsap_LoggedInUser_ExistingBilingAddress"/>
+<exclude name="PlacePickUpAsap_GuestUser"/>
+<include name="PlacePickUpLaterToday_LoggedInUser_AddNewBillingAddress"/>
+<exclude name="PlacePickUpLaterToday_GuestUser"/>
+<exclude name="PlaceDeliveryAsap_LoggedInUser_ExistingBilingAddress"/>
+<exclude name="PlaceDeliveryAsap_GuestUser"/>
+<exclude name="PlaceDeliveryLaterToday_LoggedInUser_AddNewBillingAddress"/>
+<exclude name="PlaceDeliveryLaterToday_GuestUser"/>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

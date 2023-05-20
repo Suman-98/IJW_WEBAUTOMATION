@@ -1,0 +1,7 @@
+2022-12-15 13:45:53,372 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-15 13:50:04,758 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-15 13:53:35,647 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ijw.testngframework:IJW_WebAutomation:0.0.1-SNAPSHOT @ C:\Users\919099\OneDrive - Cognizant\Desktop\IJW_WebAutomation\pom.xml.
+2022-12-15 13:53:40,651 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-15 13:53:40,662 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\919099\OneDrive - Cognizant\Desktop\IJW_WebAutomation\src\main\resources
+2022-12-15 13:53:40,665 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-15 13:53:40,665 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\919099\OneDrive - Cognizant\Desktop\IJW_WebAutomation\src\test\resources

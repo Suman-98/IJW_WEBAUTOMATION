@@ -1,0 +1,78 @@
+18:15:39.578 [main] INFO  Pickup-LaterToday for LoggedIn user - ***** TC10 Starting to Validate PickupLaterToday for LoggedIn user by adding new billing Address *****
+18:15:39.777 [main] INFO  Pickup-LaterToday for LoggedIn user - Starting to Launch IJW site
+18:15:46.453 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+18:15:53.120 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW  User Login Successful, User Name : Test A
+18:16:33.665 [main] INFO  Pickup-LaterToday for LoggedIn user - Location Set Successfully: 75063
+18:16:42.422 [main] INFO  Pickup-LaterToday for LoggedIn user - Items Added Successfully, item name: 11 Boneless Wings Combo 
+18:16:53.676 [main] INFO  Pickup-LaterToday for LoggedIn user - Later Today time is selected as  03:15 PM-03:30 PM 
+18:17:35.604 [main] ERROR Pickup-LaterToday for LoggedIn user - Failed to Add New Billing Details
+18:17:35.604 [main] ERROR Pickup-LaterToday for LoggedIn user - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Street address or P.O. Box']"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63061}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 16a8a0365c25fbcaf76ad79a644cf698
+*** Element info: {Using=xpath, value=//input[@placeholder='Street address or P.O. Box']}
+18:19:11.565 [main] INFO  Pickup-LaterToday for LoggedIn user - ***** TC10 Starting to Validate PickupLaterToday for LoggedIn user by adding new billing Address *****
+18:19:11.685 [main] INFO  Pickup-LaterToday for LoggedIn user - Starting to Launch IJW site
+18:19:17.269 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+18:19:23.887 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW  User Login Successful, User Name : Test A
+18:20:04.317 [main] INFO  Pickup-LaterToday for LoggedIn user - Location Set Successfully: 75063
+18:20:13.492 [main] INFO  Pickup-LaterToday for LoggedIn user - Items Added Successfully, item name: 11 Boneless Wings Combo 
+18:20:24.730 [main] INFO  Pickup-LaterToday for LoggedIn user - Later Today time is selected as  03:15 PM-03:30 PM 
+18:20:45.138 [main] INFO  Pickup-LaterToday for LoggedIn user - New Billing Details Added, Address: 
+18:20:48.254 [main] ERROR Pickup-LaterToday for LoggedIn user - Failed to select TipValue
+18:20:48.257 [main] ERROR Pickup-LaterToday for LoggedIn user - element click intercepted: Element <button translate="" value="true" data-di-id="di-id-4a7cbe2a-2d39ec42">...</button> is not clickable at point (1155, 374). Other element would receive the click: <modal-container role="dialog" tabindex="-1" class="modal fade show" style="display: block;" aria-modal="true">...</modal-container>
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d52c4b130fd4dfef4693e0dc64ce8cd
+18:27:19.017 [main] INFO  Pickup-LaterToday for LoggedIn user - ***** TC10 Starting to Validate PickupLaterToday for LoggedIn user by adding new billing Address *****
+18:27:19.155 [main] INFO  Pickup-LaterToday for LoggedIn user - Starting to Launch IJW site
+18:27:24.889 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+18:27:31.685 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW  User Login Successful, User Name : Test A
+18:28:12.255 [main] INFO  Pickup-LaterToday for LoggedIn user - Location Set Successfully: 75063
+18:28:21.346 [main] INFO  Pickup-LaterToday for LoggedIn user - Items Added Successfully, item name: 11 Boneless Wings Combo 
+18:28:32.589 [main] INFO  Pickup-LaterToday for LoggedIn user - Later Today time is selected as  03:15 PM-03:30 PM 
+18:28:38.241 [main] ERROR Pickup-LaterToday for LoggedIn user - Failed to Add New Billing Details
+18:28:38.241 [main] ERROR Pickup-LaterToday for LoggedIn user - move target out of bounds
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64580}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7067cd7493ec3a3fe52eeb44607b3a10
+18:30:17.365 [main] INFO  Pickup-LaterToday for LoggedIn user - ***** TC10 Starting to Validate PickupLaterToday for LoggedIn user by adding new billing Address *****
+18:30:17.485 [main] INFO  Pickup-LaterToday for LoggedIn user - Starting to Launch IJW site
+18:30:23.121 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+18:30:29.502 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW  User Login Successful, User Name : Test A
+18:31:09.798 [main] INFO  Pickup-LaterToday for LoggedIn user - Location Set Successfully: 75063
+18:31:19.531 [main] INFO  Pickup-LaterToday for LoggedIn user - Items Added Successfully, item name: 11 Boneless Wings Combo 
+18:31:30.771 [main] INFO  Pickup-LaterToday for LoggedIn user - Later Today time is selected as  03:15 PM-03:30 PM 
+18:31:36.469 [main] ERROR Pickup-LaterToday for LoggedIn user - Failed to Add New Billing Details
+18:31:36.471 [main] ERROR Pickup-LaterToday for LoggedIn user - move target out of bounds
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64760}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 149e03bdbae03195276c4208c434fa67
+18:32:06.369 [main] INFO  Pickup-LaterToday for LoggedIn user - ***** TC10 Starting to Validate PickupLaterToday for LoggedIn user by adding new billing Address *****
+18:32:06.490 [main] INFO  Pickup-LaterToday for LoggedIn user - Starting to Launch IJW site
+18:32:12.923 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW Site Launch Successfully, Site URL : https://qa2.itsjustwings.com/
+18:32:19.306 [main] INFO  Pickup-LaterToday for LoggedIn user - IJW  User Login Successful, User Name : Test A
+18:32:59.751 [main] INFO  Pickup-LaterToday for LoggedIn user - Location Set Successfully: 75063
+18:33:08.651 [main] INFO  Pickup-LaterToday for LoggedIn user - Items Added Successfully, item name: 11 Boneless Wings Combo 
+18:33:19.910 [main] INFO  Pickup-LaterToday for LoggedIn user - Later Today time is selected as  03:15 PM-03:30 PM 
+18:33:25.588 [main] ERROR Pickup-LaterToday for LoggedIn user - Failed to Add New Billing Details
+18:33:25.588 [main] ERROR Pickup-LaterToday for LoggedIn user - move target out of bounds
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LTIN322938', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\891105\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64895}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6f8256d8040dfe5162792a3e93bdd08
